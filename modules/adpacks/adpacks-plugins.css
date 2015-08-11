@@ -1,0 +1,24 @@
+#adpacks{
+width:100%!important;
+padding:10px!important;
+border:none!important;
+color:#fff!important;
+}
+.adpacks-text{
+font-family:Verdana,Arial,Helvetica!important;
+font-size:12px;
+height:50px;
+line-height:50px;
+display:block;
+text-decoration:none;
+padding-left:0px;
+}
+.adpacks-text:before{
+content:'SPONSORED: ';
+font-family:Verdana,Arial,Helvetica!important;
+font-size:12px!important;
+
+}
+.adpacks-poweredby{
+display:none!important
+}
