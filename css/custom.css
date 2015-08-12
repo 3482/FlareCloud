@@ -10,7 +10,7 @@ body{
 overflow-x:hidden;
 
 }
-.poo-container {
+.burger-container {
     width: 100%;
     height: 100%;
     position: fixed;
@@ -21,7 +21,7 @@ overflow-x:hidden;
     text-align: center
 }
 
-.pile-of-poo {
+.burger {
     font-style: normal;
     color: #c9874d;
     display: block;
@@ -35,14 +35,4 @@ overflow-x:hidden;
 }
 .hero {
     display: none;
-}
-
-.statcounter{
-
-    width:0px;
-    height:0px;
-    
-    position:fixed;
-    bottom:0px;
-    right:0px;
 }
